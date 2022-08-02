@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Matching a URL
 
-Introductory paragraph (replace this with your text)
+In the repository you will learn the breakdown of the regular expression or regex for matching a URL.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+```/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/```
 
 ## Table of Contents
 
